@@ -32,3 +32,6 @@
 
 ![image](https://github.com/barkinstas/GYM/assets/116494565/b0ef633d-053a-4366-b27d-a5c20242f073)
 ## Окно тренера
+
+https://youtu.be/55BMi9R7ldg
+## Ссылка на демонстрацию проекта
