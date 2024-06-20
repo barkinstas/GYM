@@ -1,0 +1,16 @@
+﻿<Window x:Class="GYM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GYM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="GYM" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" Height="100" Width="130" FontSize="72" FontFamily="Gabriola"/>
+        <Button Content="Администратор" HorizontalAlignment="Center" Margin="0,146,0,0" VerticalAlignment="Top" Height="58" Width="160" FontSize="16" Click="Admin_Click"/>
+        <Button Content="Менеджер" HorizontalAlignment="Center" Height="58" Margin="0,237,0,0" VerticalAlignment="Top" Width="160" FontSize="16" Click="Manager_Click"/>
+        <Button Content="Тренер" HorizontalAlignment="Center" Height="58" Margin="0,329,0,0" VerticalAlignment="Top" Width="160" FontSize="16" Click="Coach_Click"/>
+
+    </Grid>
+</Window>
